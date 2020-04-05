@@ -1,6 +1,10 @@
 3D-Modelle und gcode-Files für Faceshield-Produktion im xHain hack+makespace
 
-Keine Garantie für die gcode-Files. BEi uns laufen sie.
+Unser Version Teil basiert auf dem Modell von der machbar in Potsdam. Tausend Dank!
+https://www.thingiverse.com/thing:4241563, https://machbar-potsdam.de/
+
+
+Keine Garantie für die gcode-Files. Bei uns laufen sie.
 Wenn ihr Drucke fertig habt: bitte über masken@x-hain.de Bescheid geben!
 
 weiter Infos: 
