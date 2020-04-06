@@ -4,6 +4,8 @@ Unser Version Teil basiert auf dem Modell von der machbar in Potsdam, Anpassunge
 https://www.thingiverse.com/thing:4241563, https://machbar-potsdam.de/
 
 
+Dateien im Ordner "Untested" liegen Files, die wir noch nicht im xHain gedruckt haben.
+
 Keine Garantie für die gcode-Files. Bei uns laufen sie.
 Wenn ihr Drucke fertig habt: bitte über masken@x-hain.de Bescheid geben!
 
