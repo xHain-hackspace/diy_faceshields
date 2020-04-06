@@ -1,6 +1,6 @@
 3D-Modelle und gcode-Files für Faceshield-Produktion im xHain hack+makespace
 
-Unser Version Teil basiert auf dem Modell von der machbar in Potsdam. Tausend Dank!
+Unser Version Teil basiert auf dem Modell von der machbar in Potsdam, Anpassungen kommen CS-Tecx. Tausend Dank!
 https://www.thingiverse.com/thing:4241563, https://machbar-potsdam.de/
 
 
@@ -18,7 +18,7 @@ Wir MakerInnen vom xHain hack+makespace in Berlin haben uns mit UnterstützerInn
 
 Der Bedarf ist hoch. Aktuell haben wir bereits Anfragen für 1000 Masken erhalten. Tendenz steigend und suchen dringend NäherInnen: Auf http://masken.berlin/ findet ihr Anleitungen, Video Tutorials, Schnittmuster und auch Hinweise zu Filtern. Dort findet ihr alle Infos und auch Kontaktmöglichkeiten dazu, wie ihr uns unterstützen könnt.
 
-Zusammen mit dem Verstehbahnhof in Fürstenberg/Havel, der Fachhochschule Beuth und vielen mehr arbeiten wir außerdem gerade daran, 5000 Gesichtsschilde zu produzieren. Wenn ihr 3D-Drucker, Material oder Bedarf an Faceshields habt, schickt ne Mail an faceshield[at]x-hain.de
+Zusammen mit dem Verstehbahnhof in Fürstenberg/Havel, der Fachhochschule Beuth und vielen mehr arbeiten wir außerdem gerade daran, 5000 Gesichtsschilde zu produzieren. Wenn ihr 3D-Drucker, Material oder Bedarf an Faceshields habt, schickt ne Mail an masken[at]x-hain.de
 
 Wir produzieren nicht nur, wir koordinieren auch zwischen jenen, die Masken nähen und Schilde drucken, und denen, die diese Masken und Schilde dringend benötigen. Die Abgabe ist kostenfrei. Deshalb sammeln wir Spenden für unsere Materialkosten, also für PET Folie, Filament, Stoffe, Garn und Gummibänder.
 
